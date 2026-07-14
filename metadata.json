@@ -1,0 +1,6 @@
+{
+  "name": "Python Operators Online Lesson",
+  "description": "บทเรียนออนไลน์แบบเว็บไซต์หน้าเดียว เรื่อง ตัวดำเนินการภาษา Python ระดับชั้น ปวช ในวิชาการเขียนโปรแกรมคอมพิวเตอร์ด้วยภาษาไพทอน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
